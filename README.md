@@ -67,12 +67,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=skarb-by" alt="visitors"/>  
+
+
+<p align="center">⭐️ Не забудьте заглянуть в мои проекты и поставить звёздочку!
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=skarb-by" alt="visitors"/> 
 </p>
 
-<p align="center">⭐️ Не забудьте заглянуть в мои проекты и поставить звёздочку!</p>
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=skarb-by&label=PROFILE+VIEWS" height="160"/></p>
 
 
