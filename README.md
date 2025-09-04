@@ -1,7 +1,4 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=👋+Привет,+я+—+Skarb;🚀+Frontend+Developer;📱+React+%26+React+Native;🎨+UI%2FUX+энтузиаст" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Привет! Я — Skarb</h1>
 
 <p align="center">
   🚀 Frontend-разработчик • 🎨 UI/UX энтузиаст • 📱 Mobile & Web Dev  
