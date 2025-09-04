@@ -35,6 +35,21 @@
 
 ---
 
+## 🚀 Избранные проекты  
+
+<p align="center">
+  <a href="https://github.com/skarb-by/CarsSlider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=CarsSlider&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/skarb-by/SkarbNews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=SkarbNews&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/skarb-by/ZaraNew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=ZaraNew&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/skarb-by/calculator-3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=calculator-3D&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+---
+
+
 ## 🌍 Обо мне  
 
 💡 Создаю игры и приложения с акцентом на эстетику интерфейсов.  
