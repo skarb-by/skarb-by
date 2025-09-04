@@ -20,21 +20,6 @@
 
 ---
 
-## 📌 Избранные проекты  
-
-| 🚀 Проект | 🔧 Технологии | 📖 Описание |
-|-----------|---------------|-------------|
-| [🚗 Cars Slider](https://github.com/skarb-by/CarsSlider) | React | Интерактивный React-слайдер |
-| [📰 SkarbNews](https://github.com/skarb-by/SkarbNews) | React Native | Новостное приложение |
-| [📝 Projects ReactJS](https://github.com/skarb-by/Projects-ReactJS) | React | Учебное задание |
-| [🛍️ ZaraNew](https://github.com/skarb-by/ZaraNew) | React | Интернет-магазин |
-| [🛍️ Zara](https://github.com/skarb-by/Zara) | JavaScript | Учебный интернет-магазин |
-| [🧮 calculator-3D](https://github.com/skarb-by/calculator-3D) | CSS | 3D калькулятор на чистом CSS |
-| [🌐 mogo](https://github.com/skarb-by/mogo) | HTML+CSS | Лэндинг |
-| [📝 task1](https://github.com/skarb-by/task1) | React | Учебное задание |
-
----
-
 ## 🚀 Избранные проекты  
 
 <p align="center">
@@ -43,8 +28,18 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/skarb-by/Projects-ReactJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=Projects-ReactJS&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/skarb-by/ZaraNew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=ZaraNew&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/skarb-by/Zara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=Zara&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/skarb-by/calculator-3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=calculator-3D&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/skarb-by/mogo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=mogo&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/skarb-by/task1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=task1&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
