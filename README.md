@@ -22,7 +22,7 @@
 
 | 🚀 Проект | 🔧 Технологии | 📖 Описание |
 |-----------|---------------|-------------|
-| [🎵 SkarbMusicPlayer](https://github.com/skarb-by/SkarbMusicPlayer) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Музыкальный проигрыватель на JavaScript |
+| [Cars Slider](https://github.com/skarb-by/CarsSlider) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Интерактивный React-слайдер |
 | [📰 SkarbNews](https://github.com/skarb-by/SkarbNews) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Новостное приложение |
 | [🛍️ Zara](https://github.com/skarb-by/Zara) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Учебный проект (интернет-магазин) |
 | [🧮 calculator-3D](https://github.com/skarb-by/calculator-3D) | ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) | 3D калькулятор на чистом CSS |
@@ -41,9 +41,8 @@
 ---
 
 ## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&logoColor=26A5E4)](https://t.me/your_username)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your_link)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&logoColor=26A5E4)](https://t.me/robin_hood_8)  
+
 
 ---
 ⭐️ Не забудьте заглянуть в мои проекты и поставить ⭐!
