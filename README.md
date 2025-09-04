@@ -48,9 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=skarb-by&theme=radical&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=skarb-by)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 
 ---
 
