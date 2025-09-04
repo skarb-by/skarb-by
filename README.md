@@ -40,8 +40,8 @@
 ## 📊 GitHub статистика  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skarb-by&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarb-by&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skarb-by&show_icons=true&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarb-by&layout=compact&theme=dark" height="160" />
 </p>
 
 <p align="center">
