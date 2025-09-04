@@ -71,5 +71,5 @@
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=skarb-by" alt="visitors"/> </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1178,100:00ffe7&height=120&section=footer"/>
 </p>
