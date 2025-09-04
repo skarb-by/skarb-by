@@ -23,7 +23,7 @@
 | 🚀 Проект | 🔧 Технологии | 📖 Описание |
 |-----------|---------------|-------------|
 | [🚗 Cars Slider](https://github.com/skarb-by/CarsSlider) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Интерактивный React-слайдер |
-| [📰 SkarbNews](https://github.com/skarb-by/SkarbNews) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Новостное приложение |
+| [📰 SkarbNews](https://github.com/skarb-by/SkarbNews) | ![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=react&logoColor=61DAFB) | Новостное приложение |
 | [📝 Projects ReactJS](https://github.com/skarb-by/Projects-ReactJS) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Учебное задание |
 | [🛍️ ZaraNew](https://github.com/skarb-by/ZaraNew) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Учебный проект (интернет-магазин) |
 | [🛍️ Zara](https://github.com/skarb-by/Zara) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Учебный проект (интернет-магазин) |
