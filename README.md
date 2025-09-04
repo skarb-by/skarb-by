@@ -7,7 +7,9 @@
 ---
 
 ## 🛠️ Стек технологий  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00F5FF&height=50&section=header"/>
+</p>
 <p align="center">
   <!-- Убрали reactnative (его нет в skillicons) -->
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,figma" />
@@ -21,7 +23,9 @@
 ---
 
 ## 🚀 Избранные проекты  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00F5FF&height=50&section=header"/>
+</p>
 <p align="center">
   <a href="https://github.com/skarb-by/CarsSlider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=CarsSlider&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/skarb-by/SkarbNews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skarb-by&repo=SkarbNews&theme=tokyonight&hide_border=true" /></a>
@@ -50,19 +54,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00F5FF&height=50&section=header"/>
 </p>
+  <p align="center">💡 Люблю минимализм с неоновыми акцентами</p>
+  <p align="center">🎮 Игровые механики в проектах</p>  
+  <p align="center">📱 PWA и мобильные приложения на React Native</p>  
+  <p align="center">🛡️ Кибербезопасность (FW, IDS/IPS, VPN)</p>  
+  <p align="center">📊 TradingView Pine Script: тренды и сигналы</p>
 
-<p align="center">
-  💡 Люблю минимализм с неоновыми акцентами  
-  🎮 Игровые механики в проектах  
-  📱 PWA и мобильные приложения на React Native  
-  🛡️ Кибербезопасность (FW, IDS/IPS, VPN)  
-  📊 TradingView Pine Script: тренды и сигналы
-</p>
 
 ---
 
 ## 📊 GitHub статистика  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00F5FF&height=50&section=header"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skarb-by&show_icons=true&theme=dark" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarb-by&layout=compact&theme=dark" height="160" />
@@ -78,7 +82,9 @@
 ---
 
 ## 📫 Контакты  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00F5FF&height=50&section=header"/>
+</p>
 <p align="center">
   <a href="https://t.me/robin_hood_8"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
 </p>
