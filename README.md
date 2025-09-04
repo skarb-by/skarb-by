@@ -1,7 +1,10 @@
-<h1 align="center">👋 Привет! Я — Skarb</h1>
+<!-- Шапка с анимированным текстом -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=👋+Привет,+я+—+Skarb;🚀+Frontend+Developer;📱+React+%26+React+Native;🎨+UI%2FUX+энтузиаст" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  🚀 Frontend-разработчик • 🎨 UI/UX энтузиаст • 📱 Mobile & Web Dev  
+  ⚡ Создаю современные приложения и игры • 🖤 Люблю тёмные темы • 🎯 Всегда за эстетичный UI
 </p>
 
 ---
@@ -9,13 +12,11 @@
 ## 🛠️ Стек технологий  
 
 <p align="center">
-  <!-- Убрали reactnative (его нет в skillicons) -->
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,figma" />
 </p>
 
 <p align="center">
-  <!-- Отдельный бейдж для React Native -->
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
@@ -37,24 +38,25 @@
 
 ## 🌍 Обо мне  
 
-💡 Создаю игры и приложения с акцентом на эстетику интерфейсов.  
-⚡ Увлекаюсь PWA, React Native и кликерными играми с уровнями и лимитами.  
-📊 Экспериментирую с TradingView Pine Script (тренды, сигналы).  
+💡 Разрабатываю проекты с упором на эстетику интерфейсов.  
+⚡ Интересуюсь PWA, React Native и игровыми механиками.  
+📊 Экспериментирую с TradingView Pine Script (тренды, уровни, сигналы).  
 
 ---
 
 ## 📊 GitHub статистика  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skarb-by&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarb-by&layout=compact&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skarb-by&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarb-by&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=skarb-by&theme=radical&hide_border=true" height="160"/>
-  </p>
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skarb-by&theme=darkhub" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skarb-by&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -62,16 +64,12 @@
 ## 📫 Контакты  
 
 <p align="center">
-  <a href="https://t.me/robin_hood_8"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+  <a href="https://t.me/robin_hood_8"><img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
 </p>
 
 ---
 
-
-
-<p align="center">⭐️ Не забудьте заглянуть в мои проекты и поставить звёздочку!</p>
-  <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=skarb-by" alt="visitors"/> </p>
-
-
-
-
+<!-- Анимированный футер -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
