@@ -9,7 +9,13 @@
 ## 🛠️ Стек технологий  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,reactnative,nodejs,mongodb,html,css,figma" />
+  <!-- Убрали reactnative (его нет в skillicons) -->
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,figma" />
+</p>
+
+<p align="center">
+  <!-- Отдельный бейдж для React Native -->
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
