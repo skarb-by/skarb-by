@@ -69,9 +69,8 @@
 
 
 
-<p align="center"></p>
-  <p align="rith"> <img src="https://visitor-badge.laobi.icu/badge?page_id=skarb-by" alt="visitors"/> </p>
-
+<p align="center">⭐️ Не забудьте заглянуть в мои проекты и поставить звёздочку!</p>
+  <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=skarb-by" alt="visitors"/> </p>
 
 
 
