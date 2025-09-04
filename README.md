@@ -1,50 +1,65 @@
-# 👋 Привет! Я — Skarb  
+<h1 align="center">👋 Привет! Я — Skarb</h1>
 
-🚀 Frontend-разработчик, который любит создавать красивые интерфейсы, игры и приложения.  
-Экспериментирую с **React, Node.js, MongoDB, React Native** и 🎨 анимациями.  
-
----
-
-## 🛠️ Технологии и инструменты
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E)
-![Pine Script](https://img.shields.io/badge/-Pine%20Script-000?&logo=tradingview&logoColor=blue)
+<p align="center">
+  🚀 Frontend-разработчик • 🎨 UI/UX энтузиаст • 📱 Mobile & Web Dev  
+</p>
 
 ---
 
-## 📌 Популярные проекты
+## 🛠️ Стек технологий  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,reactnative,nodejs,mongodb,html,css,figma" />
+</p>
+
+---
+
+## 📌 Избранные проекты  
 
 | 🚀 Проект | 🔧 Технологии | 📖 Описание |
 |-----------|---------------|-------------|
-| [🚗 Cars Slider](https://github.com/skarb-by/CarsSlider) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Интерактивный React-слайдер |
-| [📰 SkarbNews](https://github.com/skarb-by/SkarbNews) | ![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=react&logoColor=61DAFB) | Новостное приложение |
-| [📝 Projects ReactJS](https://github.com/skarb-by/Projects-ReactJS) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Учебное задание |
-| [🛍️ ZaraNew](https://github.com/skarb-by/ZaraNew) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Учебный проект (интернет-магазин) |
-| [🛍️ Zara](https://github.com/skarb-by/Zara) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Учебный проект (интернет-магазин) |
-| [🧮 calculator-3D](https://github.com/skarb-by/calculator-3D) | ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) | 3D калькулятор на чистом CSS |
-| [🌐 mogo](https://github.com/skarb-by/mogo) | ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) | Лэндинг на HTML5 + CSS |
-| [📝 task1](https://github.com/skarb-by/task1) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Учебное задание |
+| [🚗 Cars Slider](https://github.com/skarb-by/CarsSlider) | React | Интерактивный React-слайдер |
+| [📰 SkarbNews](https://github.com/skarb-by/SkarbNews) | React Native | Новостное приложение |
+| [📝 Projects ReactJS](https://github.com/skarb-by/Projects-ReactJS) | React | Учебное задание |
+| [🛍️ ZaraNew](https://github.com/skarb-by/ZaraNew) | React | Интернет-магазин |
+| [🛍️ Zara](https://github.com/skarb-by/Zara) | JavaScript | Учебный интернет-магазин |
+| [🧮 calculator-3D](https://github.com/skarb-by/calculator-3D) | CSS | 3D калькулятор на чистом CSS |
+| [🌐 mogo](https://github.com/skarb-by/mogo) | HTML+CSS | Лэндинг |
+| [📝 task1](https://github.com/skarb-by/task1) | React | Учебное задание |
 
 ---
 
-## 🌍 Немного обо мне
+## 🌍 Обо мне  
 
-- ⚡ Люблю делать кликерные игры с уровнями, авторизацией и лимитами.  
-- 🎨 Ценю эстетичный UI и плавные анимации.  
-- 📱 Разрабатываю PWA и мобильные приложения на React Native.  
-- 📊 Экспериментирую с TradingView Pine Script (трендовые линии, сигналы).  
+💡 Создаю игры и приложения с акцентом на эстетику интерфейсов.  
+⚡ Увлекаюсь PWA, React Native и кликерными играми с уровнями и лимитами.  
+📊 Экспериментирую с TradingView Pine Script (тренды, сигналы).  
+
+---
+
+## 📊 GitHub статистика  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skarb-by&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarb-by&layout=compact&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=skarb-by&theme=radical&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&logoColor=26A5E4)](https://t.me/robin_hood_8)  
+## 📫 Контакты  
 
+<p align="center">
+  <a href="https://t.me/robin_hood_8"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+</p>
 
 ---
-⭐️ Не забудьте заглянуть в мои проекты и поставить ⭐!
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=skarb-by" alt="visitors"/>  
+</p>
+
+<p align="center">⭐️ Не забудьте заглянуть в мои проекты и поставить звёздочку!</p>
