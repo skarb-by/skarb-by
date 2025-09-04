@@ -22,12 +22,12 @@
 
 | 🚀 Проект | 🔧 Технологии | 📖 Описание |
 |-----------|---------------|-------------|
-| [Cars Slider](https://github.com/skarb-by/CarsSlider) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Интерактивный React-слайдер |
+| [Cars Slider](https://github.com/skarb-by/CarsSlider) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Интерактивный React-слайдер |
 | [📰 SkarbNews](https://github.com/skarb-by/SkarbNews) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Новостное приложение |
 | [🛍️ Zara](https://github.com/skarb-by/Zara) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Учебный проект (интернет-магазин) |
 | [🧮 calculator-3D](https://github.com/skarb-by/calculator-3D) | ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) | 3D калькулятор на чистом CSS |
 | [🌐 mogo](https://github.com/skarb-by/mogo) | ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) | Лэндинг на HTML5 + CSS |
-| [📝 task1](https://github.com/skarb-by/task1) | ![JS](https://img.shields.io/badge/-JS-000?&logo=javascript) | Учебное задание |
+| [📝 task1](https://github.com/skarb-by/task1) | ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) | Учебное задание |
 
 ---
 
